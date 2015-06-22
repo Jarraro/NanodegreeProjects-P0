@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jarrar - App Portfolio</string>
+    <string name="header">My Nanodegree Apps!</string>
+    <string name="btn1_txt">SPOTIFY STREAMER</string>
+    <string name="btn2_txt">SCORES APP</string>
+    <string name="btn3_txt">LIBRARY APP</string>
+    <string name="btn4_txt">BUILD IT BIGGER</string>
+    <string name="btn5_txt">XYZ READER</string>
+    <string name="btn6_txt">CAPSTONE: MY OWN APP</string>
+</resources>
